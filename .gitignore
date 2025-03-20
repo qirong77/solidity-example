@@ -1,2 +1,4 @@
 artifacts
 .states
+.deps
+.DS_Store
